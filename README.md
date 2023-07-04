@@ -32,7 +32,7 @@ pokepy is a simple text-based creature catching/typign game where players can ex
     The game saves your progress automatically, and the save can be cleared from witin the game.
 
 
-#License
+# License
 
 This project is licensed under GNU GPL v3.0.
 
