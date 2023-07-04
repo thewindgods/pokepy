@@ -1,20 +1,20 @@
-# pokepy
+pokepy
 
 pokepy is a simple text-based creature catching/typign game where players can explore different areas, catch Pokémon, and view their Pokedex.
 
-# Prerequisites
+Prerequisites
 
     Python3
     curses module (standard library in Python)
 
-# Getting Started
+Getting Started
 
     Clone the repository or download the source code files.
     Make sure you have Python3 installed on your system.
     Install the curses module if it's not already available in your Python environment.
     Run the game by executing the pokemon.py file with Python: python3 poke.py
 
-# Gameplay
+Gameplay
 
     Upon starting the game, you will be prompted to select an area to explore. Choose an area by entering the corresponding number.
     Once in an area, you will see available options such as searching for Pokémon, moving to another area or displaying the Pokédex.
@@ -24,7 +24,7 @@ pokepy is a simple text-based creature catching/typign game where players can ex
     You can access your Pokédex when in an area. The Pokédex will display the Pokemon you have caught.
     To exit the game, enter "exit" or "quit" at any prompt.
 
-# Features
+Features
 
     Explore different areas and encounter Pokémon.
     Catch Pokémon by typing the displayed word quickly and correctly.
@@ -32,7 +32,7 @@ pokepy is a simple text-based creature catching/typign game where players can ex
     The game saves your progress automatically, and the save can be cleared from witin the game.
 
 
-# License
+License
 
 This project is licensed under GNU GPL v3.0.
 
