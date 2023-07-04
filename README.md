@@ -7,7 +7,7 @@ pokepy is a simple text-based creature catching/typing game for linux where play
 # Prerequisites
 
     Python3
-    getch
+    getch (pip install getch)
 
 # Getting Started
 
