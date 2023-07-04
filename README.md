@@ -2,6 +2,8 @@
 
 pokepy is a simple text-based creature catching/typing game where players can explore different areas, catch Pokémon, and view their Pokédex. All 151 generation 1 Pokémon are available in the game, the win condition is to catch them all!
 
+![alt text](https://github.com/thewindgods/pokepy/blob/main/screenshot.png?raw=true)
+
 # Prerequisites
 
     Python3
