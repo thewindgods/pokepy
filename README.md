@@ -1,6 +1,6 @@
 # pokepy
 
-pokepy is a simple text-based creature catching/typign game where players can explore different areas, catch Pokémon, and view their Pokedex. All generation 1 Pokémon are available in the game, the wincondition is to catch them all!
+pokepy is a simple text-based creature catching/typing game where players can explore different areas, catch Pokémon, and view their Pokedex. All generation 1 Pokémon are available in the game, the wincondition is to catch them all!
 
 # Prerequisites
 
