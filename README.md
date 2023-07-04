@@ -31,7 +31,7 @@ To exit the game, enter "exit" or "quit" at any prompt.
 Explore different areas and encounter Pokémon.
 Catch Pokémon by typing the displayed word quickly and correctly.
 Manage your Pokedex and view the Pokemon you have caught.
-The game saves your progress automatically, and the save can be cleared from witin the game.
+The game saves your progress automatically, and the save can be cleared from within the game.
 
 
 # License
