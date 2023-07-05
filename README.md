@@ -44,6 +44,6 @@ Feel free to modify and enhance the game according to your preferences. Enjoy pl
 
 If you have any questions feel free to contact me.
 
-Credit for the sprites goes to Phoney badger (https://gitlab.com/phoneybadger) and Findarato, I took the sprites from pokemon-colorscripts (https://github.com/Findarato/pokemon-colorscripts).
+Credit for the sprites goes to Phoney badger (https://gitlab.com/phoneybadger), I grabbed them from pokemon-colorscripts.
 
 This is the first game created by me (thewindgods). I can't say I did it all by myself however, as I relied heavily upon ChatGPT to make it.
