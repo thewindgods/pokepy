@@ -13,7 +13,7 @@ pokepy is a simple text-based creature catching/typing game for linux where play
 
 Clone the repository or download the source code files.
 Make sure you have Python3 installed on your system.
-Install the getch module if it's not already available in your Python environment.
+Install getch.
 Run the game by executing the pokemon.py file with Python: 
     
     python3 poke.py
